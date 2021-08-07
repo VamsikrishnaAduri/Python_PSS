@@ -9,3 +9,5 @@ def solve(A):
         Dummy +=1
   return Dummy
  
+  A = [1, 2, 3,78,98,0,34,56,12,89,90]
+  solve(A)
